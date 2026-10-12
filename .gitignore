@@ -1,0 +1,17 @@
+
+# Dependencies
+**/node_modules/
+
+# Build files
+**/dist/
+**/target/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# IDE files and logs
+.idea/
+.vscode/
+*.log
